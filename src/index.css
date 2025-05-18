@@ -1,1 +1,13 @@
 @import "tailwindcss";
+
+@import url("https://fonts.googleapis.com/css2?family=K2D:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inria+Sans&display=swap");
+
+@theme {
+    --color-fa: #1f5781;
+    --color-fv: #98d2c0;
+    --color-fw: #f6f8d5;
+
+    --font-K2D: "K2D", sans-serif;
+    --font-teste: "Inria Sans", sans-serif;
+}
